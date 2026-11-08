@@ -1,0 +1,22 @@
+{
+  "wheel_id": 838,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-109",
+  "project": "concrete-pool-builder-gold-coast-budget-tips-f8e172c743d68067d9",
+  "parent_t1_ref": "poolbuildergoldcoast-154",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast budget tips",
+  "intended_url": "https://sitesau.github.io/poolbuildergoldcoast-109/",
+  "tier": "T2",
+  "writeback_nonce": "0d8f9af952ebb0e2",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-faq-4b0e825dc87e79b4477cab50e6/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
